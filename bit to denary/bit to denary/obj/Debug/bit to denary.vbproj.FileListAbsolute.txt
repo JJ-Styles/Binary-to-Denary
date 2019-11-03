@@ -1,0 +1,19 @@
+i:\documents\visual studio 2013\Projects\bit to denary\bit to denary\bin\Debug\bit to denary.exe.config
+i:\documents\visual studio 2013\Projects\bit to denary\bit to denary\bin\Debug\bit to denary.exe
+i:\documents\visual studio 2013\Projects\bit to denary\bit to denary\bin\Debug\bit to denary.pdb
+i:\documents\visual studio 2013\Projects\bit to denary\bit to denary\bin\Debug\bit to denary.xml
+i:\documents\visual studio 2013\Projects\bit to denary\bit to denary\obj\Debug\bit_to_denary.Resources.resources
+i:\documents\visual studio 2013\Projects\bit to denary\bit to denary\obj\Debug\bit to denary.vbproj.GenerateResource.Cache
+i:\documents\visual studio 2013\Projects\bit to denary\bit to denary\obj\Debug\bit to denary.exe
+i:\documents\visual studio 2013\Projects\bit to denary\bit to denary\obj\Debug\bit to denary.xml
+i:\documents\visual studio 2013\Projects\bit to denary\bit to denary\obj\Debug\bit to denary.pdb
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\bin\Debug\bit to denary.exe.config
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\bin\Debug\bit to denary.exe
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\bin\Debug\bit to denary.pdb
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\bin\Debug\bit to denary.xml
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\obj\Debug\bit_to_denary.Resources.resources
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\obj\Debug\bit to denary.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\obj\Debug\bit to denary.exe
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\obj\Debug\bit to denary.xml
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\obj\Debug\bit to denary.pdb
+C:\Users\User\Documents\Visual Studio 2019\bit to denary\bit to denary\obj\Debug\bit to denary.vbprojAssemblyReference.cache
